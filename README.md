@@ -4,7 +4,7 @@ Arduino sketch for a two-light LED desk lamp with touch controls, several animat
 
 <p>
   <img src="LedBulbLampNano.jpeg" alt="The finished lamp" width="45%">
-  <img src="LedBulbLamp%20Fusion.png" alt="Fusion 360 design of the lamp" width="40%">
+  <img src="LedBulbLamp%20Fusion.jpg" alt="Fusion 360 design of the lamp" width="40%">
 </p>
 
 ## Hardware
